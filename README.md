@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is where I will be keeping my personal codes and other opensource projects.
 
 <!--
 **myothk/myothk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
